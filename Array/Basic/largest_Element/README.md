@@ -1,4 +1,4 @@
-# Leetcode problem 
+# GFG problem 
 ## Largest Element in Array
 
 - Title: Largest Element in Array
